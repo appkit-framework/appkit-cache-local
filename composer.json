@@ -1,0 +1,18 @@
+{
+    "name": "appkit/cache-local",
+    "type": "library",
+    "description": "In-memory cache implementation for the AppKit framework",
+    "license": "MIT",
+    "require": {
+        "appkit/cache": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "AppKit\\Cache\\": "src/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    }
+}
