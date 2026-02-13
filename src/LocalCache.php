@@ -1,6 +1,6 @@
 <?php
 
-namespace AppKit\Cache;
+namespace AppKit\Cache\Local;
 
 use AppKit\Cache\CacheInterface;
 

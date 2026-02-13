@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "AppKit\\Cache\\": "src/"
+            "AppKit\\Cache\\Local\\": "src/"
         }
     },
     "config": {
